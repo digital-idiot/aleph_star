@@ -51,6 +51,7 @@ Motion planning, general model-based reinforcement learning. Stuff like this:
 ```Julia
 using Pkg
 Pkg.add("DataStructures")
+Pkg.add("Distributions")
 Pkg.add("LaTeXStrings")
 Pkg.add("Nullables")
 Pkg.add("Dierckx")
